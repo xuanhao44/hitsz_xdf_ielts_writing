@@ -74,7 +74,21 @@ In a paragraph (sequence logically)：extent; patterns
 
 albeit to (尽管) = although
 
+---
+
 the outlier (离群，异常，此外) = the exception, 类似还有 except for (除了)
+
+---
+
+At the same time (happen together; in addition)
+
+Meanwhile, / In the same time period
+
+---
+
+There was a rise of 0.2 million euros in coffee sales in Sweden/Swedish coffee sales.
+
+Coffee sales in Sweden increased by 0.2 million euros.
 
 ## 动态图 - 总结
 
@@ -88,6 +102,6 @@ the outlier (离群，异常，此外) = the exception, 类似还有 except for 
 
 ## 关联
 
- [note_teacher_1.pdf](note_teacher/note_teacher_1.pdf) 
-
- [note_self_1.pdf](note_self/note_self_1.pdf)
+- [note_teacher_1.pdf](note_teacher/note_teacher_1.pdf)
+- [note_teacher_2.pdf](note_teacher\note_teacher_2.pdf)
+- [note_self_1.pdf](note_self/note_self_1.pdf)
