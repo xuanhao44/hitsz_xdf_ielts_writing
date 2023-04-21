@@ -1,4 +1,4 @@
-# C10T2_TASK1_coffee
+# C10T2_coffee_bananas
 
 ## 题目
 
@@ -60,15 +60,15 @@ step 2
 
 paragraphing, 3-5 paragraphs
 
-types 类型: banana ; coffee (四段) （小于等于三个）
+types 类型：banana ; coffee (四段) （小于等于三个）
 
 patterns 规律：increase；decrease（多于三个）
 
 ---
 
-step 3 
+step 3
 
-In a paragraph (sequence logically)：extent; patterns
+In a paragraph (sequence logically): extent; patterns
 
 ### 积累表达
 

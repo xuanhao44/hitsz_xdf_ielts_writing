@@ -1,10 +1,8 @@
-# introduction
-
-## 小作文
+# TASK1_introduction
 
 **At least 150 words/about 20mins 1/3**
 
-### 类型
+## 类型
 
 line graph 折线图
 
@@ -20,7 +18,7 @@ flow chart 流程图
 
 time changes：动静之分
 
-### 小作文一般写作流程
+## 小作文一般写作流程
 
 step 1: subject(对象), tense(时态), unit(单位) (TA --- present)
 
