@@ -51,5 +51,5 @@ step 4: Comparison and contrast in extent; the highest/lowest (TA: highlight + i
 
 step 5: Overview
 
-- 动态：变化规律、间距变大/变小（柱状图）
-- 静态：最大/最小、偏大/偏小、起点/终点区间/数值
+- 动态：变化规律、间距变大/变小（柱状图）、起点/终点区间/数值
+- 静态：最大/最小、偏大/偏小
