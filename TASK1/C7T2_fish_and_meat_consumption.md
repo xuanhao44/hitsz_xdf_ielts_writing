@@ -1,5 +1,7 @@
 # C7T2_fish_and_meat_consumption
 
+## 初稿
+
 step 1:
 
 subject: the consumption of fish and some different kind of meat / the amounts of beef, lamb, chicken, fish consumed
@@ -22,8 +24,6 @@ step 4: 起点（终点），最值，整体变化...
 step5: overview，动态：变化规律，静态：最大最小...
 
 
-
-初稿：
 
 The graph shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004.
 
@@ -55,3 +55,7 @@ Overall, the graph shows the significant increase of chicken consumption while t
    2. 交叉点的写法抄的 MODEL。
 
    3. overview 也像 MODEL 一样写的是动态，因为静态没有太多好说的。
+
+## 批改
+
+![C7T2_fish_and_meat_consumption_批改](../pic/C7T2_fish_and_meat_consumption_批改.jpg)

@@ -28,11 +28,11 @@ In the second table, it is Switzerland which stands out as buying far more Fairt
 
 step 1
 
-subject:
+- subject:
 
 以 coffee 为例：sales of coffee in the UK / coffee sales in the UK /sales figures for coffee
 
-tense: past tense
+- tense: past tense
 
 e.g: 1999 and 2004
 
@@ -42,7 +42,7 @@ Coffee sales in the UK increased to 20 in 2004. 一般过去时
 
 Coffee sales in the UK **had** increased to 20 **by** 2004. 过去完成时
 
-unit: million**s** of euros 百万欧元，属于**不确定**数值，注意 million 加了 s，euro 也加了 s。
+- unit: million**s** of euros 百万欧元，属于**不确定**数值，注意 million 加了 s，euro 也加了 s。
 
 确定数值 million 不加 s：
 
@@ -60,9 +60,8 @@ step 2
 
 paragraphing, 3-5 paragraphs
 
-types 类型：banana ; coffee (四段) （小于等于三个）
-
-patterns 规律：increase；decrease（多于三个）
+- types 类型：banana ; coffee (四段) （小于等于三个）
+- patterns 规律：increase；decrease（多于三个）
 
 ---
 
@@ -99,6 +98,8 @@ Coffee sales in Sweden increased by 0.2 million euros.
 动态变化句式
 
 ![动态变化句式](../pic/动态变化句式.jpg)
+
+*用 coffee, UK, from 1999 to 2002 的数据来写例句*
 
 ## 关联
 
