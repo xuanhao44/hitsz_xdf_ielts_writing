@@ -8,7 +8,7 @@ Summarise the information by selecting and reporting the main features, and make
 
 *Fairtrade: a category of products for which farmers from developing countries have been paid an officially agreed fair price.
 
-![C10T2_TASK1_coffee_pic](pic/C10T2_TASK1_coffee_pic.jpg)
+![C10T2_TASK1_coffee_pic](../pic/C10T2_TASK1_coffee_pic.jpg)
 
 ## MODEL
 
@@ -34,7 +34,7 @@ subject:
 
 tense: past tense
 
-eg: 1999 and 2004
+e.g: 1999 and 2004
 
 区分 一般过去时 和 过去完成时
 
@@ -94,14 +94,14 @@ Coffee sales in Sweden increased by 0.2 million euros.
 
 描述上升下降变化的词语
 
-![上升下降变化词语](pic/上升下降变化词语.jpg)
+![上升下降变化词语](../pic/上升下降变化词语.jpg)
 
 动态变化句式
 
-![动态变化句式](pic/动态变化句式.jpg)
+![动态变化句式](../pic/动态变化句式.jpg)
 
 ## 关联
 
-- [note_teacher_1.pdf](note_teacher/note_teacher_1.pdf)
-- [note_teacher_2.pdf](note_teacher\note_teacher_2.pdf)
-- [note_self_1.pdf](note_self/note_self_1.pdf)
+- [note_teacher_1.pdf](../note_teacher/teacher_1.pdf)
+- [note_teacher_2.pdf](../note_teacher/teacher_2.pdf)
+- [note_self_1.pdf](../note_self/self_1.pdf)
