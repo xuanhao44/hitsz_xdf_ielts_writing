@@ -106,3 +106,4 @@ Coffee sales in Sweden increased by 0.2 million euros.
 - [note_teacher_1.pdf](../note_teacher/teacher_1.pdf)
 - [note_teacher_2.pdf](../note_teacher/teacher_2.pdf)
 - [note_self_1.pdf](../note_self/self_1.pdf)
+

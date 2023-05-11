@@ -1,6 +1,6 @@
 # TASK1_introduction
 
-**At least 150 words/about 20mins 1/3**
+At least 150 words/about 20mins 1/3
 
 ## 类型
 

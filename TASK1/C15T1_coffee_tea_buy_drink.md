@@ -46,6 +46,7 @@ step 4 key features and illustrate
 para 1: 1) instant > fresh 2) 差距大小比较
 
 para 2:
+
 1) over 50% of the residents went to a café for ...
 2) Melbourne, Hobart and Sydney 61%-63%, Brisbane 56%, then the least is Adelaide, almost 50%.
 
@@ -56,7 +57,6 @@ step 5 overview
 Residents prefer buying instant coffee, and over 50% of the residents went to a café for ...
 
 ---
-
 
 The bar chart shows coffee and tea buying habits in 5 Australian cities: Sydney, Melbourne, Brisbane, Adelaide and Hobart.
 
@@ -80,4 +80,3 @@ Overall, the chart shows that residents in 5 Australia cities preferred instant 
   - 其次我不知道数据是不是写的太简略了；
 
   - 最后是静态图句式没怎么用上。
-

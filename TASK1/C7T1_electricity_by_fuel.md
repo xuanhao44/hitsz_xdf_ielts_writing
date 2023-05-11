@@ -31,8 +31,6 @@ step5: overview
 
 两国电力生产的燃料结构截然不同
 
-
-
 The charts show units of electricity production by fuel source in Australia and France in 1980 and 2000.
 
 In 1980, Australia produced 100 units of electricity. The country mainly used coal to produce electricity, accounting for 50% of total production. The electricity produced by natural gas and hydro power was in the second place, each at 20%. The electricity produced by oil was the least, only 10%. 20 years later, the total production of electricity rose to 170 units. Coal remained the most important source and electricity produced by it reached almost 76% of all. The country used hydro power to produce 36 units of electricity. However, the electricity produced by oil and natural gas dropped dramatically to only 2 units.
