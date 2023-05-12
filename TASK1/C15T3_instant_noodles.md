@@ -95,7 +95,6 @@ Over all, it takes a lot of efforts to provide a cup of instant noodles for cust
 
 - 介绍段还要简短的提一下有多少步吧。
 
-
 ## 关联
 
 - [note_teacher_5.pdf](../note_teacher/teacher_5.pdf)
