@@ -43,3 +43,7 @@ Overall, the geothermal power plant uses steam produced by geothermal energy to 
 - 说好的 5 步，结果图中的五步的逻辑根本不能写，还要自己整理？
 
 - 还是写完第一遍缺字数。
+
+## 批改
+
+这篇完成的不错。

@@ -12,6 +12,24 @@ Summarise  the information by selecting and reporting the main features, and mak
 
 SAMPLE BAND 6.5 (不算很高)
 
+## 初稿
+
+The flow chart illustrates the production of instant noodles. After 8 steps of manufacturing, the products are sent to different shopping facilities.
+
+First of all, the flour is transported from storage silos to the processing plant. Then it is fully stirred into water and oil by the mixer. After that, the mixture is rolled into dough sheets by the rollers. The sheets are then cut into strips, followed by the step in which strips are shaped into noodles discs. Afterwards, the discs are deep fried and dried. In the next step, they are packed with some vegetables and spices into cups. Finally, the cups are labelled and sealed. The instant noodles now can be delivered to the supermarkets and various groceries.
+
+Over all, it takes a lot of efforts to provide a cup of instant noodles for customers.
+
+初稿写作感受：
+
+- 写完第一遍只有 138 词，不够 150 词。有点难凑句子，是要靠联系词来凑吗？
+
+- 介绍段还要简短的提一下有多少步吧。
+
+## 批改
+
+句子的 cohesion 可以更强一些，你用的比较多的是逻辑联系词，文段就会想一个个简单句凑起来的，多用状语从句。
+
 ## 讲解
 
 典型的流程图，先没按照流程讲解
@@ -80,20 +98,6 @@ SAMPLE BAND 6.5 (不算很高)
 ## 流程图总结
 
 ![流程图总结](../pic/流程图总结.png)
-
-## 初稿
-
-The flow chart illustrates the production of instant noodles. After 8 steps of manufacturing, the products are sent to different shopping facilities.
-
-First of all, the flour is transported from storage silos to the processing plant. Then it is fully stirred into water and oil by the mixer. After that, the mixture is rolled into dough sheets by the rollers. The sheets are then cut into strips, followed by the step in which strips are shaped into noodles discs. Afterwards, the discs are deep fried and dried. In the next step, they are packed with some vegetables and spices into cups. Finally, the cups are labelled and sealed. The instant noodles now can be delivered to the supermarkets and various groceries.
-
-Over all, it takes a lot of efforts to provide a cup of instant noodles for customers.
-
-初稿写作感受：
-
-- 写完第一遍只有 138 词，不够 150 词。有点难凑句子，是要靠联系词来凑吗？
-
-- 介绍段还要简短的提一下有多少步吧。
 
 ## 关联
 
