@@ -2,7 +2,7 @@
 
 ## 题目
 
-The plans below show a public park when it first opened in 1920 and the samepark today.
+The plans below show a public park when it first opened in 1920 and the same park today.
 
 Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
 
@@ -24,10 +24,10 @@ TODO
 
 - A glasshouse **was** located to the east of the entrance from Eldon Street.
   - 时态
-- The fountain ~~in the centre of the park~~ was replaced by a square rose graden with seats on its four sides.
+- The fountain ~~in the centre of the park~~ was replaced by a square rose garden with seats on its four sides.
   - 时态：has been replaced by
-  - Redeuce repetition
-  - Fix: The fountain has been repalced by a square rose graden with seats on its four sides.
+  - Reduce repetition
+  - Fix: The fountain has been replaced by a square rose garden with seats on its four sides.
 
 ---
 
