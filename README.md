@@ -14,4 +14,4 @@
 |  5   | [tea5.pdf](note_teacher/teacher_5.pdf)  | [self5.pdf](note_self/self_5.pdf)  |                 P38, C8T1, land degradation                  |                                                              |
 |      |                                         |                                    | [P47, C15T3, instant noodles](TASK1/C15T3_instant_noodles.md) |                    Write P47, C15T3 again                    |
 |      |                                         |                                    |                                                              |    [P45, C12T8, power plant](TASK1/C12T8_power_plant.md)     |
-|  6   | [tea_6.pdf](note_teacher\teacher_6.pdf) | [self_6.pdf](note_self\self_6.pdf) |                 P53, C14T4, park 1920 today                  |                    Write P53, C14T4 again                    |
+|  6   | [tea_6.pdf](note_teacher\teacher_6.pdf) | [self_6.pdf](note_self\self_6.pdf) | [P53, C14T4, park 1920 today](TASK1/C14T4_park_1920_today.md) |                    Write P53, C14T4 again                    |
