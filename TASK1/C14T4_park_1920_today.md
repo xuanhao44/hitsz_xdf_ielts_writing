@@ -10,82 +10,164 @@ Summarise the information by selecting and reporting the main features, and make
 
 ## MODEL
 
+
+
+
+
 ## 初稿
+
+The graphs show Grange Park when it first opened in 1920 and the same park today.
+
+In 1920, the park was a rectangular area, with two entrances on its north and south sides, beside Arnold Avenue and Eldon Street, respectively. In the centre of the park lay a fountain, with a stage for musicians to the west, a glasshouse to the southeast, and a pond for water plants to the northeast. Five seats and three rose gardens were on the four edges of the park.
+
+Today, the north and south entrances remain unchanged, while an entrance to an underground car park has been added in the southeastern corner of the park. The fountain has been replaced by a square rose garden with seats on all sides. The rose garden in the northeastern side of the park has been turned into a café, while the opposite one has disappeared. On the right side of the café now stands a children's play area, where the pond for water plants **used to be**. An amphitheatre for concerts has replaced the stage for musicians, and a water feature **occupies** the area where the glasshouse stood.
+
+Overall, Grange Park has changed a lot since 1920.
+
+初稿感想：
+
+- 感觉知识用的还不是很熟练，可以多背然后多写几篇这个类型的？
+-  of the park 能省略吗？
+-  was found 可用吗？感觉 used to be 好些？
+-  occupy 能用完成时吗？
 
 ## 批改
 
 TODO
 
+
+
+
+
+
+
 ## 讲解
 
 ### 1 尝试
 
-尝试写 1920 的 fountain 和 today 的 rose garden。
+尝试写 1920 的 glasshouse 和 today 的 rose garden。
 
-- A glasshouse **was** located to the east of the entrance from Eldon Street.
-  - 时态
-- The fountain ~~in the centre of the park~~ was replaced by a square rose garden with seats on its four sides.
-  - 时态：has been replaced by
-  - Reduce repetition
-  - Fix: The fountain has been replaced by a square rose garden with seats on its four sides.
+A glasshouse **was** located to the east of the entrance from Eldon Street.
+- **be located**!
+
+---
+
+尝试写 today 的 rose garden。
+
+错句：The fountain ~~in the centre of the park~~ was replaced by a square rose garden with seats on its four sides.
+- 时态：**has been replaced by**
+- Reduce repetition
+
+修改为：The fountain has been replaced by a square rose garden with seats on its four sides.
 
 ---
 
 尝试写 1920 的 stage for musicians。
 
-错句：A stage for musicians is at the west side of a fountain.
+错句：The stage for musicians is at the west side of a fountain.
 
-- **prepositions: at/in/on/to**
-
-  - <img src="C:/Users/Shiro/AppData/Roaming/Typora/typora-user-images/image-20230519162700455.png" alt="image-20230519162700455" style="zoom:67%;" />
-  - <img src="C:/Users/Shiro/AppData/Roaming/Typora/typora-user-images/image-20230519162713433.png" alt="image-20230519162713433" style="zoom:50%;" />
-
-  - A pond for water plants was in the northeast corner of the park.
-
-  - A stage for musicians **was to the west of the fountain**.
-
-  - A stage for musicians was on the west side of the fountain. (e.g. coast; bank 河岸）
-
-  - At **点的概念**：at the intersection/junction/the end of the road
-
-- articles 冠词
-  - 第一次：a/an --- 第二次：the（可数名词）
-  - 第一次：无 --- 第二次：the（不可数名词）
 - is -> was
+- The stage for musicians -> A stage for musicians (第一次提到)
+- a fountain -> the fountain (前面已提过)
+- at the west side -> **on the west side**
 
-最后修改为：A stage for musicians was to the west of the fountain.
+修改为：A stage for musicians **was to** the west of the fountain.
+
+或者：A stage for musicians was on the west side of the fountain.
+
+### 2 总结
+
+#### 2.1 prepositions: at/in/on/to
+
+<img src="../pic/prepositions.png" alt="prepositions" style="zoom:50%;" />
+
+<img src="../pic/ESWN.png" alt="ESWN" style="zoom: 67%;" />
+
+一般的：`in/on/at/to...` + `the` + ` west/western/left...` +  `of sth`.
+
+e.g.
+
+- A pond for water plants was in the northeast corner of the park.
+
+- A stage for musicians **was to the west of the fountain**.
 
 ---
 
-尝试写 1920 的 glass house。
+特殊的：
 
-A glasshouse located to the east of the entrance from ELDON STREET.
+- on the side/coast/bank
+  - e.g. A stage for musicians was **on the west side** of the fountain.
+  - edge 也是吗？
+- corner?
+  - e.g. A pond for water plants was **in the northeast corner** of the park.
+- in the center
+  - e.g. **In the center** of the park lay a fountain.
+- At **点的概念**：at the end of the road/at the intersection/at the junction
+  - e.g. We can find a beach **at the western end** of island.
 
-六大句式：
+#### 2.2 旁边
 
-1. We can find sth... + 方位
+- A be next to/adjacent to/close to/near/beside B
+- A be to/in/on the left/right/.... ([**on**] the left/right/... side/bank/coast) of B
+- A be opposite B
+- A be between B and C
+- A be intersected with B
+- A at the junction/intersection of ... and ...
+- A be surrounded by B
+- A, with B around it
+
+#### 2.3 articles 冠词
+
+- 第一次：a/an --- 第二次：the（可数名词）
+- 第一次：无 --- 第二次：the（不可数名词）
+
+#### 2.3 六大句式
+
+1. **We can find sth... + 方位**
    - We can find a beach at the western end of island.
    - west 和 western 都可以，但地名中明确指出的不要改。
-2. Sth can be found + 方位
+2. **Sth can be found + 方位**
    - A beach can be found at the western end of the island.
-3. Sth lies/sits/stands... + 方位（主动语态 - lie/sit/stand 所描述物体由低到高）
+3. **Sth lies/sits/stands... + 方位**（主动语态 - lie/sit/stand 所描述物体由低到高）
    - 坐落 lie-lay-lay (不是撒谎)；sit-sat-stood
    - A beach lies at the western end of the island.
-4. Sth is located/situated/sited... + 方位
+4. **Sth is located/situated/sited... + 方位**
    - A beach is located/situated/sited at the western end of the island.
-5. There be + sth + 方位
+5. **There be + sth + 方位**
    - There is a beach at the western end of the island.
-6. 方位 + is/lies/sits/stands sth（倒装句，不能忘记介词！）
+6. **方位 + is/lies/sits/stands sth**（倒装句，不能忘记介词！）
    - **At** the west end of the island lies a beach.
 
-### 2 流程
+#### 2.4 不变和变化
+
+| 不变和变化 |                                                              |
+| ---------- | ------------------------------------------------------------ |
+| 消失       | disappear                                                    |
+|            | be removed, be demolished, be knocked down                   |
+| 新建       | be newly built/constructed/added                             |
+| 替换 (1)   | B replace A                                                  |
+|            | A is replaced by B                                           |
+|            | A is changed/turned into B                                   |
+| 替换 (2)   | B + be constructed in the 方位名词，where A + be found/located. |
+|            | B occupy the area where A stand.                             |
+|            | A go and in its places be B.                                 |
+|            | where A stand there be B.                                    |
+| 换位置     | be relocated to sw/be moved to sw                            |
+| 变大变小   | sth becomes larger/smaller                                   |
+|            | sth expands/shrinks in size                                  |
+|            | sth is enlarged/extended/reduced in size                     |
+| 不变       | sth remains at/in ...                                        |
+|            | sth remains unchanged                                        |
+|            | sth is kept unchanged                                        |
+
+### 3 流程
 
 1. Introduction
 2. The first map (location)
 3. The second map (remain + change)
 4. Overview
 
-### 3 1920's part
+### 4 location 段内逻辑
 
 1) A big picture (**layout/structure**, e.g. a rectangular area) + **entrances** (on the north and south sides of park)
 2) North/south/west/east --- centre/sides 方位意识
@@ -94,11 +176,7 @@ A glasshouse located to the east of the entrance from ELDON STREET.
 
 ---
 
-尝试写：
-
-In 1920, the grange park was located between the Arnold avenue and Eldon street in a  rectangular area. The entrances were on the north and south sides of the park. **In the centre of the park** lay a fountain. There was a stage for musicians to the west of the fountain. A glasshouse could be found to the southeastern of the fountain, while a pond for water plants was located to the northeastern of the fountain. Five seats and three rose gardens were on the four edges of the park.
-
-Sample:
+尝试写 1920，Sample:
 
 In 1920, Grange Park was a rectangular area, **with access** from Arnold Avenue and Eldon Street on the north and south sides of the park. There was a fountain in the center, **with** a stage for musicians on its west side, a pond for water plants to the east of the north entrance and **a glasshouse in the southeast corner of park opposite**. On the four edges of the park sat some seats and rose gardens.
 
@@ -113,25 +191,3 @@ GRA:
 
 1. At the center of the park lay a fountain --> **In the center of the park lay a fountain**
 2. At the end of the road/at the intersection/at the junction
-
-### 4 today's part
-
-| 不变和变化 |                                                                 |
-| ---------- | --------------------------------------------------------------- |
-| 消失       | disappear                                                       |
-|            | be removed, be demolished, be knocked down                      |
-| 新建       | be newly built/constructed/added                                |
-| 替换 (1)   | B replace A                                                     |
-|            | A is replaced by B                                              |
-|            | A is changed/turned into B                                      |
-| 替换 (2)   | B + be constructed in the 方位名词，where A + be found/located. |
-|            | B occupy the area where A stand.                                |
-|            | A go and in its places be B.                                    |
-|            | where A stand there be B.                                       |
-| 换位置     | be relocated to sw/be moved to sw                               |
-| 变大变小   | sth becomes larger/smaller                                      |
-|            | sth expands/shrinks in size                                     |
-|            | sth is enlarged/extended/reduced in size                        |
-| 不变       | sth remains at/in ...                                           |
-|            | sth remains unchanged                                           |
-|            | sth is kept unchanged                                           |
