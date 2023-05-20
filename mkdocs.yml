@@ -1,0 +1,18 @@
+site_name: hitsz_xdf_ielts_writing
+nav:
+  - 首页: index.md
+  - TASK1:
+      - C10T2_coffee_bananas: TASK1/C10T2_coffee_bananas.md
+      - C8T2_school_spending: TASK1/C8T2_school_spending.md
+      - C6T2_distance_and_modes_of_travel: TASK1/C6T2_distance_and_modes_of_travel.md
+      - C12T7_fast_food: TASK1/C12T7_fast_food.md
+      - C9T2_telephone_calls: TASK1/C9T2_telephone_calls.md
+      - fish_and_meat_consumption: TASK1/C7T2_fish_and_meat_consumption.md
+      - electricity_by_fuel: TASK1/C7T1_electricity_by_fuel.md
+      - water_use: TASK1/C11T1_water_use.md
+      - coffee_tea_buy_drink: TASK1/C15T1_coffee_tea_buy_drink.md
+      - land_degradation: TASK1/C8T1_land_degradation.md
+      - instant_noodles: TASK1/C15T3_instant_noodles.md
+      - power_plant: TASK1/C12T8_power_plant.md
+      - park_1920_today: TASK1/C14T4_park_1920_today.md
+
