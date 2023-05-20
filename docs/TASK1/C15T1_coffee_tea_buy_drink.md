@@ -70,13 +70,8 @@ Overall, the chart shows that residents in 5 Australia cities preferred instant 
 
 初稿写作想法：
 
-大脑一片空白。
-
-- 花了好长时间构思；
-
+- 大脑一片空白。花了好长时间构思；
 - 不但如此，写出来的文章让我自己也不满意。
   - 首先逻辑上我有点疑惑不知道分的对不对；
-
   - 其次我不知道数据是不是写的太简略了；
-
   - 最后是静态图句式没怎么用上。

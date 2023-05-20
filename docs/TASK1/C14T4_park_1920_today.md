@@ -31,10 +31,8 @@ Overall, Grange Park has changed a lot since 1920.
 - 感觉知识用的还不是很熟练，可以多背然后多写几篇这个类型的？
 - of the park 能省略吗？
   - 答：可以省略。
-
 - was found 可用吗？感觉 used to be 好些？
   - 答：都可以的，没问题。
-
 - occupy 能用完成时吗？
   - 可以，但是不能用被动。
 
@@ -99,7 +97,6 @@ A glasshouse **was** located to the east of the entrance from Eldon Street.
 e.g.
 
 - A pond for water plants was in the northeast corner of the park.
-
 - A stage for musicians **was to the west of the fountain**.
 
 ---
@@ -179,10 +176,10 @@ e.g.
 
 ### 4 location 段内逻辑
 
-1) A big picture (**layout/structure**, e.g. a rectangular area) + **entrances** (on the north and south sides of park)
-2) North/south/west/east --- centre/sides 方位意识
-3) 同类一起说 (some seats and rose gardens were on the four edges of the park)
-4) In 1920, a stage for musicians was to the west of the fountain. 已出现参照物定位未出现的；参照物清晰明确。
+1. A big picture (**layout/structure**, e.g. a rectangular area) + **entrances** (on the north and south sides of park)
+2. North/south/west/east --- centre/sides 方位意识
+3. 同类一起说 (some seats and rose gardens were on the four edges of the park)
+4. In 1920, a stage for musicians was to the west of the fountain. 已出现参照物定位未出现的；参照物清晰明确。
 
 ---
 

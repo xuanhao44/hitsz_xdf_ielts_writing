@@ -23,7 +23,6 @@ Over all, it takes a lot of efforts to provide a cup of instant noodles for cust
 初稿写作感受：
 
 - 写完第一遍只有 138 词，不够 150 词。有点难凑句子，是要靠联系词来凑吗？
-
 - 介绍段还要简短的提一下有多少步吧。
 
 ## 批改

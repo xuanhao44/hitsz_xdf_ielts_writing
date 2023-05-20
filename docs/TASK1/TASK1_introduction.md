@@ -25,7 +25,6 @@ step 1: subject(对象), tense(时态), unit(单位) (TA --- present)
 重点是 subject
 
 1. 初学者可能会把 unit 包含在内，记得去除；
-
 2. 需要找到其**不同的表述方法**。
 
 ---
