@@ -44,9 +44,9 @@ Overall, Grange Park has changed a lot since 1920.
 
 2. ~~Five~~ seats and ~~three~~ rose gardens were on the four edges of the park. -> **Some** seats and rose gardens were on the four edges of the park. 不需要具体写数字。
 
-3.  while ~~an~~ a new entrance to an underground car park has been added in the southeastern corner of the park.
+3. while ~~an~~ a new entrance to an underground car park has been added in the southeastern corner of the park.
 
-4.  ~~The rose garden in the northeastern side of the park has been turned into a café, while the opposite one has disappeared.~~ -> opposite 又用错了，作形容词时，“相反的” 是抽象的相反，而不是方位的相反。不过就算是方位也是模糊的。
+4. ~~The rose garden in the northeastern side of the park has been turned into a café, while the opposite one has disappeared.~~ -> opposite 又用错了，作形容词时，“相反的”是抽象的相反，而不是方位的相反。不过就算是方位也是模糊的。
 
     改正就看 MODEL 吧。
 
@@ -57,6 +57,7 @@ Overall, Grange Park has changed a lot since 1920.
 尝试写 1920 的 glasshouse 和 today 的 rose garden。
 
 A glasshouse **was** located to the east of the entrance from Eldon Street.
+
 - **be located**!
 
 ---
@@ -64,6 +65,7 @@ A glasshouse **was** located to the east of the entrance from Eldon Street.
 尝试写 today 的 rose garden。
 
 错句：The fountain ~~in the centre of the park~~ was replaced by a square rose garden with seats on its four sides.
+
 - 时态：**has been replaced by**
 - Reduce repetition
 
@@ -92,7 +94,7 @@ A glasshouse **was** located to the east of the entrance from Eldon Street.
 
 ![ESWN](../pic/ESWN.png)
 
-一般的：`in/on/at/to...` + `the` + ` west/western/left...` +  `of sth`.
+一般的：`in/on/at/to...` + `the` + `west/western/left...` +  `of sth`.
 
 e.g.
 
