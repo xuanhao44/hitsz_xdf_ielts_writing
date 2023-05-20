@@ -25,16 +25,14 @@ markdown_extensions:
 
 #主题配置
 theme:
-    language: 'zh' #语言s
+    language: 'zh' #语言
     name: material #指定主题
     features:
         - navigation.tabs #tab页展示方式
         - navigation.expand
     icon:
       repo: fontawesome/brands/github #右上角图标
-      edit_uri: edit/main/docs # 编辑按钮跳转的链接
       repo_url: https://github.com/xuanhao44/hitsz_xdf_ielts_writing # 右上角点击跳转的链接
-      repo_name: xuanhao44.github.io # 右上角的名字
     palette:
       - scheme: default
         primary: indigo
