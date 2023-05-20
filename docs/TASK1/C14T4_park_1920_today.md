@@ -10,9 +10,11 @@ Summarise the information by selecting and reporting the main features, and make
 
 ## MODEL
 
+Grange Park was opened in 1920, a rectangular area with access from Arnold Avenue on the north side and from Eldon Street on the south side. There was a fountain in the centre, with a stage for musicians situated centre left, a glasshouse to the right of the Eldon Street entrance and a pond for water plants in the north east corner opposite. Around the edges of the park there were rose gardens, with seats nearby for people to smell the flowers and listen to music.
 
+The park has altered considerably since then. Now there is one largeish rose garden, occupying the central area where the fountain stood, and with seats all around it. One of the smaller rose gardens remains on the north side of the park. The bandstand (stage for musicians) has also been replaced, by an amphitheatre for concerts and associated seating. The glasshouse has gone and in its places is a water feature; **similarly**, where the pond for water plants stood there is now a children’s play area with a café nearby. Access to the park is still via the two original but there is now a third entrance near the water feature from an underground car park.
 
-
+**Despite the apparently significant changes, the park retains the basic elements of flowers, water, seating and music, with the addition of a café and a children’s play area.**
 
 ## 初稿
 
@@ -27,19 +29,26 @@ Overall, Grange Park has changed a lot since 1920.
 初稿感想：
 
 - 感觉知识用的还不是很熟练，可以多背然后多写几篇这个类型的？
--  of the park 能省略吗？
--  was found 可用吗？感觉 used to be 好些？
--  occupy 能用完成时吗？
+- of the park 能省略吗？
+  - 答：可以省略。
+
+- was found 可用吗？感觉 used to be 好些？
+  - 答：都可以的，没问题。
+
+- occupy 能用完成时吗？
+  - 可以，但是不能用被动。
 
 ## 批改
 
-TODO
+1. In 1920, the park was a rectangular area, with two entrances on its north and south sides, ~~beside~~ **from** Arnold Avenue and Eldon Street, respectively.
 
+2. ~~Five~~ seats and ~~three~~ rose gardens were on the four edges of the park. -> **Some** seats and rose gardens were on the four edges of the park. 不需要具体写数字。
 
+3.  while ~~an~~ a new entrance to an underground car park has been added in the southeastern corner of the park.
 
+4.  ~~The rose garden in the northeastern side of the park has been turned into a café, while the opposite one has disappeared.~~ -> opposite 又用错了，作形容词时，“相反的” 是抽象的相反，而不是方位的相反。不过就算是方位也是模糊的。
 
-
-
+    改正就看 MODEL 吧。
 
 ## 讲解
 
@@ -95,10 +104,9 @@ e.g.
 
 特殊的：
 
-- on the side/coast/bank
+- on the side/coast/bank/edge
   - e.g. A stage for musicians was **on the west side** of the fountain.
-  - edge 也是吗？
-- corner?
+- in the corner
   - e.g. A pond for water plants was **in the northeast corner** of the park.
 - in the center
   - e.g. **In the center** of the park lay a fountain.
@@ -164,8 +172,8 @@ e.g.
 
 1. Introduction
 2. The first map (location)
-3. The second map (remain + change)
-4. Overview
+3. The second map (remain + change + objects)
+4. Overview (despite sth, ...; although + sentence, ... 看**侧重**变还是不变)
 
 ### 4 location 段内逻辑
 
@@ -191,3 +199,4 @@ GRA:
 
 1. At the center of the park lay a fountain --> **In the center of the park lay a fountain**
 2. At the end of the road/at the intersection/at the junction
+3. access 用于替换 entrance，后接 from/to
