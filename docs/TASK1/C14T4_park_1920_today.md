@@ -79,9 +79,9 @@ A glasshouse **was** located to the east of the entrance from Eldon Street.
 
 #### 2.1 prepositions: at/in/on/to
 
-<img src="../pic/prepositions.png" alt="prepositions" style="zoom:50%;" />
+![prepositions](../pic/prepositions.png)
 
-<img src="../pic/ESWN.png" alt="ESWN" style="zoom: 67%;" />
+![ESWN](../pic/ESWN.png)
 
 一般的：`in/on/at/to...` + `the` + ` west/western/left...` +  `of sth`.
 

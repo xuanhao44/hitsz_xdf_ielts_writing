@@ -1,12 +1,63 @@
-site_name: hitsz_xdf_ielts_writing
+#站点配置说明
+site_name: 学校雅思写作 #站点名称
+repo_name: 'hitsz_xdf_ielts_writing'
+repo_url: 'https://github.com/xuanhao44/hitsz_xdf_ielts_writing'
+
+markdown_extensions:
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+          emoji_index: !!python/name:pymdownx.emoji.twemoji
+          emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.tabbed
+    - pymdownx.tilde
+    - admonition
+
+#主题配置
+theme:
+    language: 'zh' #语言s
+    name: material #指定主题
+    features:
+        - navigation.tabs #tab页展示方式
+        - navigation.expand
+    icon:
+      repo: fontawesome/brands/github #右上角图标
+      edit_uri: edit/main/docs # 编辑按钮跳转的链接
+      repo_url: https://github.com/xuanhao44/hitsz_xdf_ielts_writing # 右上角点击跳转的链接
+      repo_name: xuanhao44.github.io # 右上角的名字
+    palette: #颜色配置
+        - scheme: default # 日间模式
+          primary: indigo # 上方的
+          accent: cyan # 链接等可交互元件的高亮色
+          toggle:
+              icon: material/weather-night # 图标
+              name: 切换到夜晚模式 # 鼠标悬浮提示
+        - scheme: slate # 夜间模式
+          primary: black
+          accent: cyan
+          toggle:
+              icon: material/weather-sunny
+              name: 切换到白天模式
+
 nav:
   - 首页: index.md
   - TASK1:
-      - C10T2_coffee_bananas: TASK1/C10T2_coffee_bananas.md
-      - C8T2_school_spending: TASK1/C8T2_school_spending.md
-      - C6T2_distance_and_modes_of_travel: TASK1/C6T2_distance_and_modes_of_travel.md
-      - C12T7_fast_food: TASK1/C12T7_fast_food.md
-      - C9T2_telephone_calls: TASK1/C9T2_telephone_calls.md
+      - introduction: TASK1/TASK1_introduction.md
+      - coffee_bananas: TASK1/C10T2_coffee_bananas.md
+      - school_spending: TASK1/C8T2_school_spending.md
+      - distance_and_modes_of_travel: TASK1/C6T2_distance_and_modes_of_travel.md
+      - fast_food: TASK1/C12T7_fast_food.md
+      - telephone_calls: TASK1/C9T2_telephone_calls.md
       - fish_and_meat_consumption: TASK1/C7T2_fish_and_meat_consumption.md
       - electricity_by_fuel: TASK1/C7T1_electricity_by_fuel.md
       - water_use: TASK1/C11T1_water_use.md
