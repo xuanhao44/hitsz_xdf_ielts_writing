@@ -1,5 +1,9 @@
 # hitsz_xdf_ielts_writing
 
+## ielts-writing-band-descriptors
+
+[ielts-writing-band-descriptors.pdf](note_teacher/ielts-writing-band-descriptors.pdf)
+
 ## Class
 
 | No. |                 Teacher                 |                Self                |                               In Class                               |                                         Homework                                         |
@@ -15,3 +19,4 @@
 |     |                                         |                                    |    [P47, C15T3, instant noodles](TASK1/C15T3_instant_noodles.md)     |                                  Write P47, C15T3 again                                  |
 |     |                                         |                                    |                                                                      |                  [P45, C12T8, power plant](TASK1/C12T8_power_plant.md)                   |
 |  6  | [tea_6.pdf](note_teacher/teacher_6.pdf) | [self_6.pdf](note_self/self_6.pdf) |    [P53, C14T4, park 1920 today](TASK1/C14T4_park_1920_today.md)     |                                  Write P53, C14T4 again                                  |
+|  7  | [tea_7.pdf](note_teacher/teacher_7.pdf) | [self_7.pdf](note_self/self_7.pdf) |                                                                      |                                                                                          |
