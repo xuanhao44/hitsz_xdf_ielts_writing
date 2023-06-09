@@ -28,7 +28,7 @@ theme:
     language: 'zh' #语言
     name: material #指定主题
     features:
-        - navigation.tabs #tab页展示方式
+        - navigation.tabs #tab 页展示方式
         - navigation.expand
     icon:
       repo: fontawesome/brands/github #右上角图标
@@ -67,4 +67,5 @@ nav:
       - instant_noodles: TASK1/C15T3_instant_noodles.md
       - power_plant: TASK1/C12T8_power_plant.md
       - park_1920_today: TASK1/C14T4_park_1920_today.md
-
+      - choose_site: TASK1/C5T3_choose_site.md
+      - airport: TASK1/C16T3_airport.md
